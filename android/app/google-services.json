@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103605753361",
+    "project_id": "csc4360buildaquiz",
+    "storage_bucket": "csc4360buildaquiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103605753361:android:c0e8a56124d387d14383b0",
+        "android_client_info": {
+          "package_name": "com.example.in_class_activity_16"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkX7mV4KyrhCTBdZh5ZS6AbuWUCYjyPl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

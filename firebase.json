@@ -1,0 +1,16 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "csc4360buildaquiz",
+          "appId": "1:103605753361:android:c0e8a56124d387d14383b0",
+          "fileOutput": "lib/firebase_options.dart"
+        }
+      }
+    }
+  }
+}
